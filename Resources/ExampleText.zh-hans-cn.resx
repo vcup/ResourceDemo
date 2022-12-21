@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <root>
-    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-        <xsd:element name="root" msdata:IsDataSet="true">
-            
-        </xsd:element>
-    </xsd:schema>
     <resheader name="resmimetype">
         <value>text/microsoft-resx</value>
     </resheader>
@@ -19,18 +12,18 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
     <data name="Message_Hello" xml:space="preserve">
-        <value>Hello!</value>
+        <value>你好！</value>
     </data>
     <data name="Message_About_Demo" xml:space="preserve">
-        <value>The demo is a example project about how to use resource file(.resx).</value>
+        <value>该项目用于展示如何使用资源文件(.resx)</value>
     </data>
     <data name="Mutual_IntoNextMessage" xml:space="preserve">
-        <value>continue...</value>
+        <value>继续</value>
     </data>
     <data name="Mutual_TellMeYourName" xml:space="preserve">
-        <value>after into next, plz tell me u name</value>
+        <value>继续之前，您如何称呼？</value>
     </data>
     <data name="Message_HelloWithName" xml:space="preserve">
-        <value>Good Morafterevening！{0}！</value>
+        <value>{0}！早中晚上好！</value>
     </data>
 </root>

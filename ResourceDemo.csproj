@@ -12,9 +12,6 @@
         <Generator>PublicResXFileCodeGenerator</Generator>
         <LastGenOutput>ExampleText.Designer.cs</LastGenOutput>
       </EmbeddedResource>
-      <EmbeddedResource Update="Resources\ExampleText.en.resx">
-        <DependentUpon>ExampleText.resx</DependentUpon>
-      </EmbeddedResource>
       <EmbeddedResource Update="Resources\ExampleText.ja-jp.resx">
         <DependentUpon>ExampleText.resx</DependentUpon>
       </EmbeddedResource>

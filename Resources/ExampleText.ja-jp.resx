@@ -11,4 +11,19 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
+    <data name="Message_Hello" xml:space="preserve">
+        <value>こんにちは</value>
+    </data>
+    <data name="Message_About_Demo" xml:space="preserve">
+        <value>このデーモンは、リソースファイル（.resx）の使い方を示す為にのプロジェクトです</value>
+    </data>
+    <data name="Mutual_IntoNextMessage" xml:space="preserve">
+        <value>続き</value>
+    </data>
+    <data name="Mutual_TellMeYourName" xml:space="preserve">
+        <value>次までに、名前を教えて下さい</value>
+    </data>
+    <data name="Message_HelloWithName" xml:space="preserve">
+        <value>おはこんばんにちは！{0}！</value>
+    </data>
 </root>
