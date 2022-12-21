@@ -21,7 +21,8 @@
         <value>继续</value>
     </data>
     <data name="Mutual_TellMeYourName" xml:space="preserve">
-        <value>继续之前，您如何称呼？\n:</value>
+        <value>继续之前，您如何称呼？
+:</value>
     </data>
     <data name="Message_HelloWithName" xml:space="preserve">
         <value>{0}！早中晚上好！</value>
