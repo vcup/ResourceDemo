@@ -28,9 +28,12 @@
         <value>continue...</value>
     </data>
     <data name="Mutual_TellMeYourName" xml:space="preserve">
-        <value>after into next, plz tell me u name</value>
+        <value>after into next, plz tell me u name:</value>
     </data>
     <data name="Message_HelloWithName" xml:space="preserve">
         <value>Good Morafterevening！{0}！</value>
+    </data>
+    <data name="Message_RepeatWithNextLanguage" xml:space="preserve">
+        <value>Repeat with next language</value>
     </data>
 </root>

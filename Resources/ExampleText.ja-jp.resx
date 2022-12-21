@@ -21,9 +21,12 @@
         <value>続き</value>
     </data>
     <data name="Mutual_TellMeYourName" xml:space="preserve">
-        <value>次までに、名前を教えて下さい</value>
+        <value>次までに、名前を教えて下さい：</value>
     </data>
     <data name="Message_HelloWithName" xml:space="preserve">
         <value>おはこんばんにちは！{0}！</value>
+    </data>
+    <data name="Message_RepeatWithNextLanguage" xml:space="preserve">
+        <value>次の言語で繰り返す</value>
     </data>
 </root>

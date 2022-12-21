@@ -87,6 +87,15 @@ namespace ResourceDemo.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Repeat with next language.
+        /// </summary>
+        public static string Message_RepeatWithNextLanguage {
+            get {
+                return ResourceManager.GetString("Message_RepeatWithNextLanguage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to continue....
         /// </summary>
         public static string Mutual_IntoNextMessage {
@@ -96,7 +105,7 @@ namespace ResourceDemo.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to after into next, plz tell me u name.
+        ///   Looks up a localized string similar to after into next, plz tell me u name:.
         /// </summary>
         public static string Mutual_TellMeYourName {
             get {
