@@ -15,6 +15,9 @@
       <EmbeddedResource Update="Resources\ExampleText.ja-jp.resx">
         <DependentUpon>ExampleText.resx</DependentUpon>
       </EmbeddedResource>
+      <EmbeddedResource Update="Resources\ExampleText.zh-hans-cn.resx">
+        <DependentUpon>ExampleText.resx</DependentUpon>
+      </EmbeddedResource>
     </ItemGroup>
 
     <ItemGroup>
